@@ -19,4 +19,5 @@ Halo, saya Najwan Aufa. Saya memiliki minat yang mendalam dalam bidang teknologi
 ## 🛠 Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;&nbsp;&nbsp;![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;&nbsp;&nbsp;
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;&nbsp;&nbsp;![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;&nbsp;&nbsp;![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;&nbsp;&nbsp; ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=c%2B%2B)
+
